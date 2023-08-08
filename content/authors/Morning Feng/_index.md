@@ -11,7 +11,7 @@ authors:
   - Mengling Feng
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Principal Investigator
@@ -22,7 +22,7 @@ organizations:
     url: 'https://ids.nus.edu.sg/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: TODO
+bio: More on https://www.mornin-feng.com/
 
 interests:
   - Artificial Intelligence
@@ -48,7 +48,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:seekiong@nus.edu.sg'
+    link: 'mailto:ephfm@nus.edu.sg'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=_wsommYAAAAJ
@@ -57,9 +57,6 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'seekiong@nus.edu.sg'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
