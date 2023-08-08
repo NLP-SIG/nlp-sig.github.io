@@ -4,7 +4,6 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-
   - name: Cover
     url: cover
     weight: 10
