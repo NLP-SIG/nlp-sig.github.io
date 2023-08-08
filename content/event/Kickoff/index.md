@@ -4,25 +4,25 @@ title: NLP SIG Kickoff Event
 event: Wowchemy Conference
 event_url: https://example.org
 
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: innovation4.0, Level 1, Conference Room
+# address:
+#   street: 450 Serra Mall
+#   city: Stanford
+#   region: CA
+#   postcode: '94305'
+#   country: United States
 
-summary: NLP SIG Kickoff Event
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: NLP SIG Kickoff Event @ IDS
+abstract: 'Institute of Data Science played host to the much-anticipated Natural Language Processing (NLP) Special Interest Group (SIG) Kickoff Event on August 8, 2023. '
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2023-08-23T11:00:00Z'
+date_end: '2023-08-23T13:00:00Z'
 all_day: false
 
-# Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+# # Schedule page publish date (NOT talk date).
+# publishDate: '2017-01-01T00:00:00Z'
 
 authors: []
 tags: []
@@ -54,10 +54,10 @@ slides:
 projects:
 ---
 
-Slides can be added in a few ways:
+Institute of Data Science played host to the much-anticipated Natural Language Processing (NLP) Special Interest Group (SIG) Kickoff Event on August 8, 2023. 
 
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+The Kickoff Event was a golden opportunity for NLP enthusiasts, industry leaders, scholars, and students to gather and explore the latest trends in NLP research, connect, and spark collaborations. The event covered thought-provoking sessions, demonstrations of innovative applications of NLP, and keynote speeches from leading figures in the field.
 
-Further event details, including page elements such as image galleries, can be added to the body of this page.
+The NLP SIG at IDS was initiated with the vision of bringing together a community interested in the intersections of language with machine learning, AI, and data science. This Kickoff Event marked the formal commencement of this groundbreaking initiative.
+
+Stay tuned for more updates on future events and networking opportunities from NLP SIG at IDS. Join the league in shaping the future of natural language processing!
