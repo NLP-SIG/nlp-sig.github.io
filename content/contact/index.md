@@ -18,32 +18,30 @@ sections:
       email: zhiyuan_hu@u.nus.edu
 
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: 3 Research Link
+        city: Singapore
+        postcode: 117602
+        country: Singapore
+        country_code: SG
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: TBD
+        latitude: '1.294524'
+        longitude: '103.775707'
+      directions: Enter the building, and take the lift to Level 4.
       office_hours:
         - 'Monday 10:00 to 13:00'
-      appointment_url: 'https://calendly.com'
 
     
       # Automatically link email and phone or display as text?
       autolink: true
     
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      # # Email form provider
+      # form:
+      #   provider: netlify
+      #   formspree:
+      #     id:
+      #   netlify:
+      #     # Enable CAPTCHA challenge to reduce spam?
+      #     captcha: false
     design:
       columns: '1'
 
