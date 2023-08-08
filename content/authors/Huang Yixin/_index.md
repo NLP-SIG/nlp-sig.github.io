@@ -1,14 +1,14 @@
 ---
 # Display name
-title: DENG Yang
+title: Huang Yixin
 
 # Full name (for SEO)
-first_name: DENG
-last_name: Yang
+first_name: Huang
+last_name: Yixin
 
 # Username (this should match the folder name)
 authors:
-  - DENG Yang
+  - Huang Yixin
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,14 +22,11 @@ organizations:
     url: 'https://ids.nus.edu.sg/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: More on https://dengyang17.github.io/
+bio: Research Intern
 
 interests:
-  - Proactive Conversational AI
-  - User-centric Information Seeking
-  - Actionable and Agentic Language Models
-  - Knowledge-driven Computing
-
+  - Natural Language Processing
+  - Large Language Model
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -38,15 +35,15 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:ydeng@nus.edu.sg'
+    link: 'mailto:idsv30@visitor.nus.edu.sg'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=OshWT3UAAAAJ&hl=en
-
+    link: https://www.linkedin.com/in/huang-yixin/
+    
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Members
 ---
 
-I am currently a postdoctoral research fellow in NExT++, School of Computing, National University of Singapore, working with Prof. Tat-Seng Chua and Prof. See-Kiong Ng. Before that, I received my Ph.D degree at The Chinese University of Hong Kong, supervised by Prof. Wai Lam.
+I am currently a Research Intern at NUS IDS.
