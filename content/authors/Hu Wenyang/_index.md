@@ -1,14 +1,14 @@
 ---
 # Display name
-title: DENG Yang
+title: Hu Wenyang
 
 # Full name (for SEO)
-first_name: DENG
-last_name: Yang
+first_name: Hu
+last_name: Wenyang
 
 # Username (this should match the folder name)
 authors:
-  - DENG Yang
+  - Hu Wenyang
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,13 +22,11 @@ organizations:
     url: 'https://ids.nus.edu.sg/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: More on https://dengyang17.github.io/
+bio: More on https://www.linkedin.com/in/wenyang-hu-581941183/?originalSubdomain=sg
 
 interests:
-  - Proactive Conversational AI
-  - User-centric Information Seeking
-  - Actionable and Agentic Language Models
-  - Knowledge-driven Computing
+  - Collaborative Machine Learning
+  - Instruction Tuning in NLP
 
 
 # Social/Academic Networking
@@ -38,10 +36,10 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:ydeng@nus.edu.sg'
+    link: 'mailto:wenyang@nus.edu.sg'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=OshWT3UAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=EecZzYsAAAAJ&hl=en
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -49,4 +47,5 @@ user_groups:
   - Members
 ---
 
-I am currently a postdoctoral research fellow in NExT++, School of Computing, National University of Singapore, working with Prof. Tat-Seng Chua and Prof. See-Kiong Ng. Before that, I received my Ph.D degree at The Chinese University of Hong Kong, supervised by Prof. Wai Lam.
+Research Assistant supervised by A/Prof Bryan Low & Ng See-Kiong.
+
