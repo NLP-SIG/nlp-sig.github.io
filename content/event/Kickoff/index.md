@@ -5,12 +5,12 @@ event: Wowchemy Conference
 event_url: https://example.org
 
 location: innovation4.0, Level 1, Conference Room
-# address:
-#   street: 450 Serra Mall
-#   city: Stanford
-#   region: CA
-#   postcode: '94305'
-#   country: United States
+address:
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
 
 summary: NLP SIG Kickoff Event @ IDS
 abstract: 'Institute of Data Science played host to the much-anticipated Natural Language Processing (NLP) Special Interest Group (SIG) Kickoff Event on August 8, 2023. '
