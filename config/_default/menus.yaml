@@ -5,14 +5,14 @@
 
 main:
 
-  - name: News
-    url: post
+  - name: Cover
+    url: cover
     weight: 10
-  - name: Club
-    url: club
-    weight: 20
   - name: People
     url: people
+    weight: 20
+    - name: News
+    url: post
     weight: 30
   - name: Events
     url: event
