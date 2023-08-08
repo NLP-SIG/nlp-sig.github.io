@@ -14,7 +14,8 @@ authors:
 superuser: true
 
 # Role/position
-role: Advisor
+role: Professor
+weight: 1
 
 # Organizations/Affiliations
 organizations:
