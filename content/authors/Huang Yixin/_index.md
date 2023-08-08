@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Member
+role: Research Intern
 
 # Organizations/Affiliations
 organizations:

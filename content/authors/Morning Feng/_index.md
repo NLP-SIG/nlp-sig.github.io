@@ -15,7 +15,6 @@ superuser: false
 
 # Role/position
 role: Assistant Professor
-weight: 2
 
 # Organizations/Affiliations
 organizations:
