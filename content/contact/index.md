@@ -15,8 +15,7 @@ sections:
 
         Let's explore the possibilities of NLP together. Join us today!
         
-      email: zhiyuan_hu@u.nus.edu
-      email: kai_he@nus.edg.sg
+      email: zhiyuan_hu@u.nus.edu (Zhiyuan Hu) / kai_he@nus.edg.sg (Kai He)
       address:
         street: 3 Research Link
         city: Singapore
