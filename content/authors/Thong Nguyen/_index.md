@@ -46,7 +46,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Member
+  - Members
 ---
 
 I am a PhD student at National University of Singapore, advised by Asst. Prof. Anh-Tuan Luu and Prof. See-Kiong Ng. Currently, my research interests are Natural Language Processing, particularly Monolingual and Cross-Lingual Summarization, and Machine Learning, specifically Representation Learning and Optimization.

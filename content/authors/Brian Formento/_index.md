@@ -47,7 +47,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Member
+  - Members
 ---
 
 Hi! I'm Brian Formento, A PhD candidate in the school of computer science at the National University of Singapore, doing research in the exciting field of deep learning! I'm a recipient of the SINGA scholarship and under the supervision of Professor See-Kiong Ng, Dr. Chen Zhenghua, and Dr. Chuan Sheng Foo. Before Singapore, I graduated with a MEng in electronic engineering from the University of Southampton. I was originally born in Turin Italy and moved to England at a young age, where I lived across the country, predominantly Reading, Bath, Portsmouth and Birmingham. I'm passionate about deep learning, machine learning, natural language processing, computer vision, and web development.

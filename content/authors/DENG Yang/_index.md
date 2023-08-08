@@ -46,7 +46,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Member
+  - Members
 ---
 
 I am currently a postdoctoral research fellow in NExT++, School of Computing, National University of Singapore, working with Prof. Tat-Seng Chua and Prof. See-Kiong Ng. Before that, I received my Ph.D degree at The Chinese University of Hong Kong, supervised by Prof. Wai Lam.
