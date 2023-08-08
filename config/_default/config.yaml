@@ -4,8 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: IDS SIG-NLP # Website name
-baseURL: '/' # Website URL
-url: 'https://sig-nlp.github.io'
+baseURL: 'https://sig-nlp.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
