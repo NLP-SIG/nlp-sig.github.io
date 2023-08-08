@@ -14,7 +14,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Principal Investigator
+role: Advisor
 
 # Organizations/Affiliations
 organizations:
@@ -47,7 +47,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Advisors
 ---
 
 See-Kiong Ng (Ph.D., Carnegie Mellon University), a recipient of the Singapore National Computer Board's overseas scholarship (1986), is currently Professor of Practice at the Department of Computer Science of the School of Computing, National University of Singapore (NUS), and Director, Translational Research for the university's Institute of Data Science. Founded in May 2016, the Institute is the focal point at NUS for developing integrated data science capabilities and nurturing data scientists for Singapore's Smart Nation initiative. It pushes the boundary of data science through transdisciplinary upstream research, and creates impact by translating the research outcomes into real-life applications by collaborating with partners from the industry and public agencies.
