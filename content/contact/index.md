@@ -15,18 +15,21 @@ sections:
 
         Let's explore the possibilities of NLP together. Join us today!
         
-      email: zhiyuan_hu@u.nus.edu (Zhiyuan Hu) / kai_he@nus.edg.sg (Kai He)
-
+      email: zhiyuan_hu@u.nus.edu
+      email: kai_he@nus.edg.sg
       address:
         street: 3 Research Link
         city: Singapore
         postcode: 117602
         country: Singapore
         country_code: SG
+
       coordinates:
         latitude: '1.294524'
         longitude: '103.775707'
+
       directions: Enter the building, and take the lift to Level 4.
+
       office_hours:
         - 'Monday 10:00 to 13:00'
 

@@ -14,7 +14,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Member
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
