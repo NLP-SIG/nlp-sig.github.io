@@ -16,10 +16,9 @@ appearance:
 marketing:
   seo:
     site_type: Organization
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    local_business_type: 'Education'
+    org_name: 'NUS'
+    description: 'NUS IDS NLP Special Intereset Group'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -72,7 +71,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/NLP-SIG/nlp-sig.github.io'
     content_dir: content
     branch: main
   avatar:
@@ -114,5 +113,5 @@ extensions:
 # Citation style
 
 publications:
-  date_format: January 2006
+  date_format: August 2023
   citation_style: apa

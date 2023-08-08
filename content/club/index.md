@@ -1,5 +1,5 @@
 ---
-title: Tour
+title: Club
 date: 2022-10-24
 
 type: landing
