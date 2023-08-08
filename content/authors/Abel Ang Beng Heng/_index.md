@@ -22,7 +22,7 @@ organizations:
     url: 'https://ids.nus.edu.sg/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: More on https://elfsong.github.io/
+bio: 4th Year Integrative Sciences and Engineering Programme (ISEP) PhD Student
 
 interests:
   - AI for Education
