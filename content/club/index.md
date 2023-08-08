@@ -28,7 +28,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: Reading Group
+      - title: SIG Reading Group
         content: 'Join us and shape the future!'
         align: right
         background:
