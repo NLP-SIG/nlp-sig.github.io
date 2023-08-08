@@ -35,7 +35,7 @@ sections:
           image:
             filename: joinus.jpg
             filters:
-              brightness: 0.5
+              brightness: 0.7
           position: center
           color: '#333'
         link:
