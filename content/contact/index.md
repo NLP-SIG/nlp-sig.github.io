@@ -15,7 +15,7 @@ sections:
 
         Let's explore the possibilities of NLP together. Join us today!
         
-      email: zhiyuan_hu@u.nus.edu
+      email: zhiyuan_hu@u.nus.edu (Zhiyuan Hu) / kai_he@nus.edg.sg (Kai He)
 
       address:
         street: 3 Research Link
@@ -30,18 +30,9 @@ sections:
       office_hours:
         - 'Monday 10:00 to 13:00'
 
-    
       # Automatically link email and phone or display as text?
       autolink: true
     
-      # # Email form provider
-      # form:
-      #   provider: netlify
-      #   formspree:
-      #     id:
-      #   netlify:
-      #     # Enable CAPTCHA challenge to reduce spam?
-      #     captcha: false
     design:
       columns: '1'
 
