@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Fellow (Student Vice Chair)
+role: Research Fellow (Student Vice-Chair)
 
 # Organizations/Affiliations
 organizations:
