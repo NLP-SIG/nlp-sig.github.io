@@ -1,7 +1,6 @@
 ---
 title: NLP SIG Kickoff Event
 date: 2023-08-08
-authors: [Du Mingzhe]
 ---
 
 Institute of Data Science played host to the much-anticipated Natural Language Processing (NLP) Special Interest Group (SIG) Kickoff Event on August 8, 2023. 
