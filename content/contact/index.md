@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: contact
     content:
-      title: Hello from IDS NLP-SIG
+      title: 📨 Hello from IDS NLP-SIG 
       text: |-
         Our NLP SIG is a collaborative, multi-disciplinary community committed to exploring and advancing the field of NLP. We engage in myriad activities such as hosting vibrant discussions, organizing informative seminars, and driving innovative research projects.
         

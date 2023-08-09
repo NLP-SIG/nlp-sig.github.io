@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: PhD Student (Student Chair)
 
 # Organizations/Affiliations
 organizations:
