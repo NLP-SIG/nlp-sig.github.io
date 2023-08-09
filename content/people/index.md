@@ -21,12 +21,4 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
-   - block: markdown
-    content:
-      title: hello
-      subtitle: hello
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
 ---
