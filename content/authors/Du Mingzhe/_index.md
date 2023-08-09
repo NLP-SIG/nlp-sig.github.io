@@ -9,6 +9,7 @@ last_name: Mingzhe
 # Username (this should match the folder name)
 authors:
   - Du Mingzhe
+  - Mingzhe Du
 
 # Is this the primary user of the site?
 superuser: true
