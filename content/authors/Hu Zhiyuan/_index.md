@@ -35,7 +35,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:zhiyuan_hu@u.nus.edu'
+    link: 'mailto:zhiyuan_hu@u.nus.edu.sg'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=gQ1t5EUAAAAJ

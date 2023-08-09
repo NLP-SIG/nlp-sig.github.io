@@ -21,4 +21,13 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
+  
+  - block: markdown
+    content:
+      title: Hello
+      subtitle: Join Us Now!
+      text: |
+        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+    design:
+      columns: '1'
 ---

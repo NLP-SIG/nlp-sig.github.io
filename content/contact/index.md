@@ -16,8 +16,8 @@ sections:
         Let's explore the possibilities of NLP together. [Join us](https://forms.gle/Bu3CohBX5urM4p5n6) today!
         
       email: |-
-        [Zhiyuan Hu](mailto:zhiyuan_hu@u.nus.edu)
-        
+        Zhiyuan Hu (zhiyuan_hu@u.nus.edu.sg) / He Kai (kai_he@nus.edu.sg)
+
       address:
         street: 3 Research Link
         city: Singapore
