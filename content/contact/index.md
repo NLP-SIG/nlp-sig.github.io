@@ -15,7 +15,7 @@ sections:
 
         Let's explore the possibilities of NLP together. [Join us](https://forms.gle/Bu3CohBX5urM4p5n6) today!
         
-      email: zhiyuan_hu@u.nus.edu (Zhiyuan Hu) / kai_he@nus.edg.sg (Kai He)
+      email: [zhiyuan_hu@u.nus.edu (Zhiyuan Hu)](mailto:zhiyuan_hu@u.nus.edu) / [kai_he@nus.edg.sg (Kai He)](kai_he@nus.edg.sg)
       address:
         street: 3 Research Link
         city: Singapore
@@ -33,7 +33,7 @@ sections:
         - 'Monday 10:00 to 13:00'
 
       # Automatically link email and phone or display as text?
-      autolink: true
+      autolink: false
     
     design:
       columns: '1'
