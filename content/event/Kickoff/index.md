@@ -4,6 +4,9 @@ title: NLP SIG Kickoff Event
 # event: Wowchemy Conference
 # event_url: https://example.org
 
+authors:
+- See-Kiong Ng
+
 location: innovation4.0, Level 1, Conference Room
 # address:
 #   street: 450 Serra Mall
@@ -24,7 +27,7 @@ all_day: false
 # # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors: ["See-KiongNg"]
+authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
