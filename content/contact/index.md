@@ -13,7 +13,7 @@ sections:
         
         We welcome students, faculty, research scholars, and enthusiasts from various fields - computer science, data science, healthcare, and beyond. Whether you're a seasoned professional or an eager novice, the NLP SIG offers an incredibly supportive and stimulating environment for learning, innovation, and collaboration.
 
-        Let's explore the possibilities of NLP together. Join us today!
+        Let's explore the possibilities of NLP together. [Join us](https://forms.gle/Bu3CohBX5urM4p5n6) today!
         
       email: zhiyuan_hu@u.nus.edu (Zhiyuan Hu) / kai_he@nus.edg.sg (Kai He)
       address:
