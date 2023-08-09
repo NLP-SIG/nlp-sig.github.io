@@ -4,7 +4,7 @@ title: Wu Zhaoxuan
 
 # Full name (for SEO)
 first_name: Wu
-last_name: Xhaoxuan
+last_name: Zhaoxuan
 
 # Username (this should match the folder name)
 authors:
