@@ -7,7 +7,7 @@ Institute of Data Science played host to the much-anticipated Natural Language P
 
 <!--more-->
 
-The Kickoff Event was a golden opportunity for NLP enthusiasts, industry leaders, scholars, and students to gather and explore the latest trends in NLP research, connect, and spark collaborations. The event covered thought-provoking sessions, demonstrations of innovative applications of NLP, and keynote speeches from leading figures in the field.
+The Kickoff Event was a golden opportunity for NLP enthusiasts to gather and explore the latest trends in NLP research, connect, and spark collaborations. 
 
 The NLP SIG at IDS was initiated with the vision of bringing together a community interested in the intersections of language with machine learning, AI, and data science. This Kickoff Event marked the formal commencement of this groundbreaking initiative.
 
