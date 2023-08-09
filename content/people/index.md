@@ -24,10 +24,10 @@ sections:
   
   - block: markdown
     content:
-      title: Hello
-      subtitle: Join Us Now!
+      title: Join Us
+      subtitle: Welcome to IDS NLP-SIG 😃
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="https://forms.gle/Bu3CohBX5urM4p5n6" cta_text="I'm in!" %}}
     design:
       columns: '1'
 ---
