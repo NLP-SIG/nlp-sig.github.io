@@ -22,12 +22,13 @@ sections:
       show_role: true
       show_social: true
   
-  - block: markdown
-    content:
-      title: Join Us
-      subtitle: Welcome to IDS NLP-SIG 😃
-      text: |
-        {{% cta cta_link="https://forms.gle/Bu3CohBX5urM4p5n6" cta_text="I'm in!" %}}
-    design:
-      columns: '1'
+  # Hidden Join Us section
+  # - block: markdown
+  #   content:
+  #     title: Join Us
+  #     subtitle: Welcome to IDS NLP-SIG 😃
+  #     text: |
+  #       {{% cta cta_link="https://forms.gle/Bu3CohBX5urM4p5n6" cta_text="I'm in!" %}}
+  #   design:
+  #     columns: '1'
 ---
