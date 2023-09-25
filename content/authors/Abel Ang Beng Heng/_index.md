@@ -39,7 +39,7 @@ social:
     link: 'mailto:bengheng.ang@u.nus.edu'
   - icon: google-scholar
     icon_pack: ai
-    link: [https://scholar.google.com/citations?user=Th_mPm8AAAAJ&hl=en](https://www.linkedin.com/in/beng-heng/?originalSubdomain=sg)
+    link: [https://scholar.google.com/citations?user=Th_mPm8AAAAJ&hl=en](https://www.linkedin.com/in/beng-heng/?originalSubdomain=sg)]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -47,4 +47,6 @@ user_groups:
   - Members
 ---
 
-I am a Ph.D. student in Data Science at the National University of Singapore (NUS), supervised by Assoc. Prof. Bryan Kian Hsiang Low. I received my Bachelor of Science (Honors) in Data Science & Analytics and a minor in Computer Science from NUS in 2020. I am currently supported by the ISEP-IDS Scholarship jointly offered by the NUS Graduate School Integrative Sciences and Engineering Programme (ISEP) and the Institute of Data Science (IDS).
+Upcoming 4th Year Integrative Sciences and Engineering Programme (ISEP) PhD Student under 
+Supervisor: Prof Ng See-Kiong
+
