@@ -39,7 +39,7 @@ social:
     link: 'mailto:bengheng.ang@u.nus.edu'
   - icon: google-scholar
     icon_pack: ai
-    link: [https://scholar.google.com/citations?user=Th_mPm8AAAAJ&hl=en](https://www.linkedin.com/in/beng-heng/?originalSubdomain=sg)]
+    link: [https://www.linkedin.com/in/beng-heng/?originalSubdomain=sg](https://www.linkedin.com/in/beng-heng/?originalSubdomain=sg)
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
