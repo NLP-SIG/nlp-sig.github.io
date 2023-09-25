@@ -47,6 +47,5 @@ user_groups:
   - Members
 ---
 
-Upcoming 4th Year Integrative Sciences and Engineering Programme (ISEP) PhD Student under 
-Supervisor: Prof Ng See-Kiong
+Upcoming 4th Year Integrative Sciences and Engineering Programme (ISEP) PhD Student supervised by Prof Ng See-Kiong.
 
