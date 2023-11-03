@@ -1,5 +1,5 @@
 ---
-title: Seminar Recap: NLP SIG Monthly Research Event – Large Language Models Focus
+title: "Seminar Recap: NLP SIG Monthly Research Event – Large Language Models Focus"
 
 authors:
 - Anh Tuan Luu
