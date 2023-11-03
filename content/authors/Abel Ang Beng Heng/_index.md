@@ -9,6 +9,7 @@ last_name: Ang
 # Username (this should match the folder name)
 authors:
   - Abel Ang Beng Heng
+  - Beng Heng Ang
 
 # Is this the primary user of the site?
 superuser: false

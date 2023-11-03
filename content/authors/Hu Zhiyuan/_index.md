@@ -9,6 +9,7 @@ last_name: Zhiyuan
 # Username (this should match the folder name)
 authors:
   - Hu Zhiyuan
+  - Zhiyuan Hu
 
 # Is this the primary user of the site?
 superuser: false

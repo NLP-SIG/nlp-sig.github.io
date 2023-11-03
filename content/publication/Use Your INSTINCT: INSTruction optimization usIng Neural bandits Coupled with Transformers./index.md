@@ -3,17 +3,18 @@ title: "Use Your INSTINCT: INSTruction optimization usIng Neural bandits Coupled
 publication_types:
   - "1"
 authors:
-  - Thong Nguyen
-  - Xiaobao Wu
-  - Xinshuai Dong
-  - Cong-Duy T. Nguyen
-  - Zhen Hai
-  - Lidong Bing
-  - Luu_Anh_Tuan
-publication: "Association for Computational Linguistics"
-publication_short: ACL
-abstract: "Multimodal Review Helpfulness Prediction (MRHP) aims to rank product reviews based on predicted helpfulness scores and has been widely applied in e-commerce via presenting customers with useful reviews. Previous studies commonly employ fully-connected neural networks (FCNNs) as the final score predictor and pairwise loss as the training objective. However, FCNNs have been shown to perform inefficient splitting for review features, making the model difficult to clearly differentiate helpful from unhelpful reviews. Furthermore, pairwise objective, which works on review pairs, may not completely capture the MRHP goal to produce the ranking for the entire review list, and possibly induces low generalization during testing. To address these issues, we propose a listwise attention network that clearly captures the MRHP ranking context and a listwise optimization objective that enhances model generalization. We further propose gradient-boosted decision tree as the score predictor to efficaciously partition product reviews' representations. Extensive experiments demonstrate that our method achieves state-of-the-art results and polished generalization performance on two large-scale MRHP benchmark datasets."
+  - Xiaoqiang Lin*
+  - Zhaoxuan Wu*
+  - Zhongxiang Dai
+  - Wenyang Hu
+  - Yao Shu
+  - See-Kiong Ng
+  - Patrick Jaillet
+  - Bryan Kian Hsiang Low
+publication: "NeurIPS"
+publication_short: NeurIPS
+abstract: "Large language models (LLMs) have shown remarkable instruction-following capabilities and achieved impressive performances in various applications. However, the performances of LLMs depend heavily on the instructions given to them, which are typically manually tuned with substantial human efforts. Recent work has used the query-efficient Bayesian optimization (BO) algorithm to automatically optimize the instructions given to black-box LLMs. However, BO usually falls short when optimizing highly sophisticated (e.g., high-dimensional) objective functions, such as the functions mapping an instruction to the performance of an LLM. This is mainly due to the limited expressive power of the Gaussian process (GP) model which is used by BO as a surrogate to model the objective function. Meanwhile, it has been repeatedly shown that neural networks (NNs), especially pre-trained transformers, possess strong expressive power and can model highly complex functions. So, we adopt a neural bandit algorithm which replaces the GP in BO by an NN surrogate to optimize instructions for black-box LLMs. More importantly, the neural bandit algorithm allows us to naturally couple the NN surrogate with the hidden representation learned by a pre-trained transformer (i.e., an open-source LLM), which significantly boosts its performance. These motivate us to propose our INSTruction optimization usIng Neural bandits Coupled with Transformers} (INSTINCT) algorithm. We perform instruction optimization for ChatGPT and use extensive experiments to show that our INSTINCT consistently outperforms the existing methods in different tasks, such as in various instruction induction tasks and the task of improving the zero-shot chain-of-thought instruction."
 
 date: '2023-05-01T00:00:00Z'
 ---
-Link: https://arxiv.org/abs/2305.12678
+Link: https://arxiv.org/abs/2310.02905
