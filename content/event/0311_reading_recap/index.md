@@ -1,5 +1,5 @@
 ---
-title: IDS NLP SIG Research Seminar
+title: Seminar Recap: NLP SIG Monthly Research Event – Large Language Models Focus
 
 authors:
 - Anh Tuan Luu
@@ -55,14 +55,12 @@ projects:
 ---
 
 
-# Seminar Recap: NLP SIG Monthly Research Event – Large Language Models Focus
-
 We are delighted to share that our NLP SIG seminar on Large Language Models (LLMs), held on the 3rd of November, was a notable gathering, underscored by the presence of two luminaries in the field.
 
 ## Distinguished Speakers:
 
-* Anh Tuan Luu: A venerated authority with a storied career from postdoctoral research at MIT to impactful roles in NLP at NTU and I2R, Luu is at the forefront of fortifying the robustness of AI systems.
-* Wenya Wang: A trailblazing researcher whose postdoctoral work at the University of Washington has given rise to innovative methodologies for enhancing the scalability and reasoning capabilities of AI.
+* **Anh Tuan Luu**: A venerated authority with a storied career from postdoctoral research at MIT to impactful roles in NLP at NTU and I2R, Luu is at the forefront of fortifying the robustness of AI systems.
+* **Wenya Wang**: A trailblazing researcher whose postdoctoral work at the University of Washington has given rise to innovative methodologies for enhancing the scalability and reasoning capabilities of AI.
 
 ## Highlights from the Talks:
 
