@@ -67,16 +67,18 @@ We are delighted to share that our NLP SIG seminar on Large Language Models (LLM
 Anh Tuan Luu offered a deep dive into the resilience of AI models in NLP, spotlighting pioneering work in protecting AI infrastructures against adversarial encroachments to bolster their reliability and trustworthiness.
 
 ![110301](110301.jpg)
+![110302](110302.jpg)
 
 Wenya Wang confronted the inherent challenges of hallucinations, scalability, and adaptability in modern LLMs like GPT-4. Her avant-garde research introduces more sophisticated, capable language models primed for commonsense reasoning and swift adaptation across a spectrum of NLP tasks.
 
-![110301](110301.jpg)
+![110301](110304.jpg)
+![110301](110305.jpg)
 
 ## Interactive Q&A Session:
 
 The talks were followed by a vibrant interactive Q&A session, allowing attendees to engage directly with the speakers, fostering a rich exchange of ideas and clarifying complex topics in real-time.
 
-![110301](110301.jpg)
+![110306](110306.jpg)
 
 
 
