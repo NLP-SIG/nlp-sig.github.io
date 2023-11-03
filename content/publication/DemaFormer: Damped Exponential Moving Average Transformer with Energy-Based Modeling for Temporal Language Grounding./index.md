@@ -1,5 +1,5 @@
 ---
-title: DemaFormer: Damped Exponential Moving Average Transformer with Energy-Based Modeling for Temporal Language Grounding.
+title: DemaFormer\: Damped Exponential Moving Average Transformer with Energy-Based Modeling for Temporal Language Grounding.
 publication_types:
   - "1"
 authors:
