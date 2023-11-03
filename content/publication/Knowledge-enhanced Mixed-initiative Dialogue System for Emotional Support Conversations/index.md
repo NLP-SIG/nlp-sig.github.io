@@ -1,5 +1,5 @@
 ---
-title: Knowledge-enhanced Mixed-initiative Dialogue System for Emotional Support Conversations
+title: "Knowledge-enhanced Mixed-initiative Dialogue System for Emotional Support Conversations"
 publication_types:
   - "1"
 authors:
