@@ -32,18 +32,40 @@ width="760"
 height="422"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="110302" srcset="
+/media/110302_hue9973dd6d7770f871b17ce2579b21f21_102772_3cafb072f0d570cca8dbeff634486477.webp 400w,
+/media/110302_hue9973dd6d7770f871b17ce2579b21f21_102772_acb78e40ef4699a76fcc5a3b7daa31a5.webp 760w,
+/media/110302_hue9973dd6d7770f871b17ce2579b21f21_102772_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://nlp-sig.github.io/media/110302_hue9973dd6d7770f871b17ce2579b21f21_102772_3cafb072f0d570cca8dbeff634486477.webp"
+width="760"
+height="469"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>Wenya Wang confronted the inherent challenges of hallucinations, scalability, and adaptability in modern LLMs like GPT-4. Her avant-garde research introduces more sophisticated, capable language models primed for commonsense reasoning and swift adaptation across a spectrum of NLP tasks.&lt;/p>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="110301" srcset="
-/media/110301_hu2606185e04be2ec2025eb2759171dac5_94746_952a8bd18b07581d8b652f1774bf7fee.webp 400w,
-/media/110301_hu2606185e04be2ec2025eb2759171dac5_94746_a4dd9cd246dd4f9a1e10111d82773838.webp 760w,
-/media/110301_hu2606185e04be2ec2025eb2759171dac5_94746_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://nlp-sig.github.io/media/110301_hu2606185e04be2ec2025eb2759171dac5_94746_952a8bd18b07581d8b652f1774bf7fee.webp"
+/media/110304_hu9f3810ea611bfba93abe9f08dba8a7a7_102445_ad95d9176c98a84a9ff597a488a1aac6.webp 400w,
+/media/110304_hu9f3810ea611bfba93abe9f08dba8a7a7_102445_243c070be86bf20a6f5af15aa677f907.webp 760w,
+/media/110304_hu9f3810ea611bfba93abe9f08dba8a7a7_102445_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://nlp-sig.github.io/media/110304_hu9f3810ea611bfba93abe9f08dba8a7a7_102445_ad95d9176c98a84a9ff597a488a1aac6.webp"
 width="760"
-height="422"
+height="479"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="110301" srcset="
+/media/110305_hu45ff0453bcb9cf9f58882d31bfc55b33_89546_b12a617078c4d247279847e4ceef2f26.webp 400w,
+/media/110305_hu45ff0453bcb9cf9f58882d31bfc55b33_89546_8a3911b5aba3789993986a9f61d20bc3.webp 760w,
+/media/110305_hu45ff0453bcb9cf9f58882d31bfc55b33_89546_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://nlp-sig.github.io/media/110305_hu45ff0453bcb9cf9f58882d31bfc55b33_89546_b12a617078c4d247279847e4ceef2f26.webp"
+width="760"
+height="447"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
@@ -52,13 +74,13 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="110301" srcset="
-/media/110301_hu2606185e04be2ec2025eb2759171dac5_94746_952a8bd18b07581d8b652f1774bf7fee.webp 400w,
-/media/110301_hu2606185e04be2ec2025eb2759171dac5_94746_a4dd9cd246dd4f9a1e10111d82773838.webp 760w,
-/media/110301_hu2606185e04be2ec2025eb2759171dac5_94746_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://nlp-sig.github.io/media/110301_hu2606185e04be2ec2025eb2759171dac5_94746_952a8bd18b07581d8b652f1774bf7fee.webp"
+&lt;div class="w-100" >&lt;img alt="110306" srcset="
+/media/110306_huae53976807239d1ba0f8b30217fddf0c_137655_115788278a999060d91e20c3a65fc436.webp 400w,
+/media/110306_huae53976807239d1ba0f8b30217fddf0c_137655_8d3639f86f3215294b052420a7661d26.webp 760w,
+/media/110306_huae53976807239d1ba0f8b30217fddf0c_137655_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://nlp-sig.github.io/media/110306_huae53976807239d1ba0f8b30217fddf0c_137655_115788278a999060d91e20c3a65fc436.webp"
 width="760"
-height="422"
+height="382"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p></description></item><item><title>Socratic Question Generation: A Novel Dataset, Models, and Evaluation</title><link>https://nlp-sig.github.io/publication/socratic-question-generation-a-novel-dataset-models-and-evaluation/</link><pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate><guid>https://nlp-sig.github.io/publication/socratic-question-generation-a-novel-dataset-models-and-evaluation/</guid><description>&lt;p>Link: &lt;a href="https://arxiv.org/abs/2310.02905" target="_blank" rel="noopener">https://arxiv.org/abs/2310.02905&lt;/a>&lt;/p></description></item><item><title>From Deep Data Integration to Using LLMs to Query Unstructured and Structured Data</title><link>https://nlp-sig.github.io/event/from_deep_data_integration_to_using_llms_to_query_unstructured_and_structured_data/</link><pubDate>Tue, 26 Sep 2023 10:00:00 +0000</pubDate><guid>https://nlp-sig.github.io/event/from_deep_data_integration_to_using_llms_to_query_unstructured_and_structured_data/</guid><description>&lt;p>We are witnessing the widespread adoption of deep learning techniques as avant-garde solutions to different computational problems in recent years. In data integration, the use of deep learning techniques has helped establish several state-of-the-art results in long standing problems, including information extraction, entity matching, data cleaning, and table understanding. In this talk, I will reflect on the strengths of deep learning and how that has helped move forward the needle in data integration. I will also discuss a few challenges associated with solutions based on deep learning techniques and describe some opportunities for future work.
