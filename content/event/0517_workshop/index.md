@@ -4,7 +4,7 @@ title: NUS IDS NLP-SIG Workshop for TheWebConf 2024
 authors:
 - See-Kiong Ng
 
-location: Innovation 4.0, NUS (3 Research Link, Singapore 117602)
+location: Seminar Room, Innovation 4.0, NUS (3 Research Link, Singapore 117602)
 
 
 summary: 'NUS IDS NLP-SIG Workshop for TheWebConf 2024: Friday 17/05, 8.30 am at I4'
