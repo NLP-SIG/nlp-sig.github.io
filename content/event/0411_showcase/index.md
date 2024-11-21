@@ -6,9 +6,7 @@ authors:
 
 location: Seminar Room, Innovation 4.0, NUS (3 Research Link, Singapore 117602)
 
-
 summary: 'NLP SIG Showcase – Nov 2024 Edition'
-abstract: 'We are pleased to announce that NLP SIG Showcase – Nov 2024 Edition will be held on Monday, 04 November 2024.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -48,9 +46,13 @@ slides:
 projects:
 ---
 
-We am pleased to inform you about the upcoming IDS NLP SIG Workshop, where we will be showcasing cutting-edge papers published by the IDS students and researchers at top-tier conferences recently. This event will provide a unique opportunity for attendees to delve into the latest advancements in the field of NLP & ML research and interact with our students and researchers to find out more about the research activities at IDS.
+We are pleased to share the highlights from the recent IDS NLP SIG Workshop, where cutting-edge papers published by IDS students and researchers at top-tier conferences were showcased. This event provided a unique opportunity for attendees to delve into the latest advancements in the fields of Natural Language Processing (NLP) and Machine Learning (ML), and to learn more about the ongoing research activities at IDS.
 
-In this workshop, we will feature two industry speakers (who are IDS and SOC alumni) from TikTok and Salesforce, presenting the latest research developments in industry.  The workshop will also showcase a wide range of recent research works done on the latest topics in LLMs and ML by poster presentation, where you can interact with the students and researchers about their work on a one-on-one basis.
+The workshop featured two industry speakers, both IDS and SOC alumni, from TikTok and Salesforce, respectively. They presented the latest research developments in the industry, offering valuable insights into practical applications and emerging trends in NLP and ML.
+
+In addition to the keynote presentations, the workshop showcased a wide range of recent research works on the latest topics in Large Language Models (LLMs) and ML through poster presentations. Attendees had the opportunity to interact with students and researchers on a one-on-one basis, fostering engaging discussions and potential collaborations.
+
+We extend our gratitude to all participants for making this event a success and look forward to future workshops that continue to push the boundaries of NLP and ML research.
 
 ### Event Details
 
